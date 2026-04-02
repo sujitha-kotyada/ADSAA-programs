@@ -1,3 +1,4 @@
+//Implement Job Sequencing with deadlines using Greedy strategy.
 import java.util.*;
 
 class Job {
