@@ -1,3 +1,4 @@
+//Single Source Shortest Paths problem using Greedy method when the graph is represented by adjacency matrix
 import java.util.Scanner;
 
 public class DijkstraAlgorithmAdjMatrix {
