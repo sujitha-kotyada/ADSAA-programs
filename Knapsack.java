@@ -1,3 +1,4 @@
+//Zero one knapsack using Backtracking strategy
 import java.util.*;
 public class Knapsack{
 	static int n =4;
