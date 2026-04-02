@@ -1,4 +1,4 @@
-//DFS Traversal of a Graph with Adjacency Matric Representation
+//DFS Traversal of a Graph with Adjacency Matrix Representation
 import java.util.Scanner;
 
 class DFS{
